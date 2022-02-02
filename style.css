@@ -456,13 +456,14 @@ section{
 
 .footer .credit{
   padding:2.5rem 1rem;
-  color:#fff;
+  color: #999999;
   font-weight: normal;
   font-size: 2rem;
 }
 
 .footer .credit span{
-  color:var(--red);
+  /* color:var(--red); */
+  color: #fff;
 }
 
 #scroll-top{
